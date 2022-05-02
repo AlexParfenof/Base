@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "0fd38fc9ff894a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "799747a35f67bfc5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Корпус/AVEVA/⌨️ Командная строка.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "fd382efb9cb8ca8d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Корпус/AVEVA/⌨️ Командная строка.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7b1c9014d677ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "75685cb12eb632c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa77ba5b61f03cca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62d5b6f0eb54d898",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f9fbb1e151e8e61",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3d0c0558157c5d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "335e07bde6e10b83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Корпус/AVEVA/⌨️ Командная строка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6dfe5c5fda61003",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd0b8506ccb5cf3f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "799747a35f67bfc5",
+  "lastOpenFiles": [
+    "Корпус/AVEVA/⌨️ Командная строка.md",
+    "Дни рождения/2022-05-10.md",
+    "001_Welcome/README.md",
+    "Корпус/База знаний по проекту 23900/Общие.md",
+    "2022-05-24.md",
+    "2022-05-11.md",
+    "Дни рождения/2022-05-12.md",
+    "База знаний по проекту 23900.md",
+    "_attachments/dc24202d93207cc636881b9a4ef65b40.png",
+    "2022-05-10.md"
+  ]
+}
