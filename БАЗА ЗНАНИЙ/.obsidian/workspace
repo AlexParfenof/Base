@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Корпус/AVEVA/⌨️ Командная строка.md",
-            "mode": "preview",
+            "file": "Корпус/База знаний по проекту 23900/Общие.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Корпус/AVEVA/⌨️ Командная строка.md",
+                "file": "Корпус/База знаний по проекту 23900/Общие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,12 +115,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "799747a35f67bfc5",
+  "active": "fd382efb9cb8ca8d",
   "lastOpenFiles": [
+    "Корпус/База знаний по проекту 23900/Общие.md",
     "Корпус/AVEVA/⌨️ Командная строка.md",
     "Дни рождения/2022-05-10.md",
     "001_Welcome/README.md",
-    "Корпус/База знаний по проекту 23900/Общие.md",
     "2022-05-24.md",
     "2022-05-11.md",
     "Дни рождения/2022-05-12.md",
