@@ -6,6 +6,7 @@
       {
         "id": "799747a35f67bfc5",
         "type": "leaf",
+        "dimension": 39.90267639902677,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +19,12 @@
       {
         "id": "fd382efb9cb8ca8d",
         "type": "leaf",
+        "dimension": 60.09732360097324,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Корпус/База знаний по проекту 23900/Общие.md",
-            "mode": "source",
+            "file": "001_Welcome/README.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Корпус/База знаний по проекту 23900/Общие.md",
+                "file": "001_Welcome/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +119,10 @@
   },
   "active": "fd382efb9cb8ca8d",
   "lastOpenFiles": [
-    "Корпус/База знаний по проекту 23900/Общие.md",
-    "Корпус/AVEVA/⌨️ Командная строка.md",
-    "Дни рождения/2022-05-10.md",
     "001_Welcome/README.md",
+    "Корпус/AVEVA/⌨️ Командная строка.md",
+    "Корпус/База знаний по проекту 23900/Общие.md",
+    "Дни рождения/2022-05-10.md",
     "2022-05-24.md",
     "2022-05-11.md",
     "Дни рождения/2022-05-12.md",
